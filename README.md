@@ -1,4 +1,6 @@
-       This project focused on employing a machine learning-based text mining model to cluster the textual content of Amazon customer review data to identify whether customer will recommend the products to their peers.The dataset is collected from Kaggle with 19,662 observations and 10 variables about the reviews in e-commerce women’s clothing from Amazon platform.
+This project focused on employing a machine learning-based text mining model to cluster the textual content of Amazon customer review data 
+to identify whether customer will recommend the products to their peers.The dataset is collected from Kaggle with 19,662 observations and 
+10 variables about the reviews in e-commerce women’s clothing from Amazon platform.
 
 The analysis follows the steps below:
 1. Data cleaning&Exploratory analysis
